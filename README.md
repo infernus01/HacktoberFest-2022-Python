@@ -33,7 +33,6 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_O
 ### Rules
 
 * There are total 70 problems open for contribution.
-* Pull Requests are accepted on **First Come First Serve Basis**.
 * Once Pull Request is accepted on one problem, no other pull request will be reviewed on the that problem. Please try to contribute on other problem if any pull request is already merged.
 * Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 * Respect people.
